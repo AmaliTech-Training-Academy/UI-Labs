@@ -1,4 +1,6 @@
-# Lab 1: Product Development Life Cycle
+# Product Development Life Cycle
+
+---
 
 ## Learning Objectives
 - Understand the stages involved in the digital product development cycle.  
