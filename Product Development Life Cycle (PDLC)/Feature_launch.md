@@ -10,7 +10,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Product Selection
 Select a popular application that all group members are familiar with (e.g., Spotify, Netflix, LinkedIn, a university portal, or a fitness tracker).
