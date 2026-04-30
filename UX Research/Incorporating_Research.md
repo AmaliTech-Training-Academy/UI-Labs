@@ -1,3 +1,6 @@
+# Incorporating Research Findings into Designs
+
+---
 
 ## Learning Objectives
 - Apply research insights to inform information architecture and navigation design.  
