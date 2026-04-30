@@ -1,3 +1,6 @@
+# Design Libraries & Asset Organization
+
+---
 
 ## Learning Objectives
 1. Understand the concept and benefits of design libraries in Figma.  
