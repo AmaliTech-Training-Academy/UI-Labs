@@ -1,3 +1,6 @@
+#  Building and Documenting a Scalable Design System
+
+---
 
 ## Learning Objectives
 - Understand the purpose, structure, and documentation of a design system  
