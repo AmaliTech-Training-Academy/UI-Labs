@@ -1,3 +1,6 @@
+# Accessibility for Chat App
+
+---
 
 ## Learning Objectives
 - Grasp the concept of designing for all users, including those with disabilities  
