@@ -1,3 +1,6 @@
+# Understand Responsive Design & Figma's Responsive Tools
+
+---
 
 ## Learning Objectives
 - Grasp the core principles of responsive design  
