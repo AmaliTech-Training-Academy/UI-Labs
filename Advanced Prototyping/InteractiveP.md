@@ -1,3 +1,6 @@
+#  Interactive Prototyping with Travel Booking Project
+
+---
 
 ## Learning Objectives
 - Identify and apply appropriate prototyping triggers to match specific interaction goals  
