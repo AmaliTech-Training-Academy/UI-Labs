@@ -1,4 +1,4 @@
-#  Lab: UX Analysis & Redesign – Art.yale.edu
+# UX Analysis & Redesign
 
 ---
 
