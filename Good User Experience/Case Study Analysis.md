@@ -1,4 +1,4 @@
-# Lab 1: Case Study Analysis
+# Case Study Analysis
 
 ---
 
