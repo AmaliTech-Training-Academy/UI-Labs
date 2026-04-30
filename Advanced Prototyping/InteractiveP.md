@@ -12,7 +12,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Hamburger Menu Animation
 **Scenario:** In mobile view, the hamburger icon should animate into a close “X” icon when tapped.  
