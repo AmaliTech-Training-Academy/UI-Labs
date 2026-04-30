@@ -9,7 +9,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ## Part 1: Handoff File Creation
 
