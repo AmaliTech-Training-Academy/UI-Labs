@@ -1,3 +1,6 @@
+# Design Library Management
+
+---
 
 ## Learning Objectives
 - Understand the concept and benefits of design libraries in Figma  
