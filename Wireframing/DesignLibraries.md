@@ -10,7 +10,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Design Library Creation
 - Create a new Figma file and set up a design library  
