@@ -11,7 +11,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Authentication Screen
 
