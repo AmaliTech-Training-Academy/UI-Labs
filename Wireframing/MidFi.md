@@ -1,5 +1,8 @@
+# Mid-Fi for PantryPal Project
 
-# Learning Objectives
+---
+
+## Learning Objectives
 The Pantry Pal is a collaborative mobile application designed for small, shared households (roommates, families) to manage their favorite recipes, plan weekly meals together, and auto-generate a shared shopping list.
 
 ## Activity Outline
