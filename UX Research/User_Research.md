@@ -1,4 +1,4 @@
-# Lab 2: User Research Bias
+# User Research Bias
 
 ---
 
