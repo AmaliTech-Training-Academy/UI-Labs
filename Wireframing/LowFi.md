@@ -1,3 +1,6 @@
+# Low-Fi for Public Holiday Project
+
+---
 
 ## Learning Overview
 AmaliTech currently has three main branches: **Germany, Rwanda, and Ghana**. Due to frequent collaboration across these locations, it can be challenging to keep track of public holidays in each country. As a result, meetings are sometimes scheduled on holidays, causing disruptions.
