@@ -1,3 +1,6 @@
+# Gestalt Principles
+
+---
 
 ## Learning Objectives
 - Comprehend how Gestalt principles influence how users perceive and organize visual elements.  
