@@ -11,7 +11,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Publish Design System
 - Publish your design system from the previous project  
