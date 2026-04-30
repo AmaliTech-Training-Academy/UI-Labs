@@ -10,7 +10,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### 1. Product Selection
 Choose a popular and accessible digital product (e.g., e-commerce website, mobile app) or use your own new product.
