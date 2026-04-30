@@ -1,3 +1,6 @@
+# Hunter Project
+
+---
 
 ## Learning Objectives
 - Apply theoretical concepts by quantifying and analyzing the practical impact of principles like **Hick’s Law** and **Fitts’ Law** on user effort and efficiency in design.  
