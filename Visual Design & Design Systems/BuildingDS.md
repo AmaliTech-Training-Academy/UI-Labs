@@ -10,7 +10,7 @@
 
 ---
 
-## Activity Outlines
+## Activity Outline
 
 ### Part 1: Design System Audit & Analysis
 
